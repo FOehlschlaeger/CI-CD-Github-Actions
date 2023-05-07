@@ -25,7 +25,7 @@ To implement a CI pipeline with Github actions, you would first need to create a
 
 Here is an example of a workflow file for a Python project:
 
-```
+```yaml
 name: CI
 
 on:
